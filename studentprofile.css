@@ -1,0 +1,88 @@
+.bgs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(psubg.png);
+    background-size: cover;
+    
+    
+    /* Set background attachment to fixed for a fixed background */
+
+    
+    /* Set background position to center */
+    background-position: center;
+    
+    /* Add other styles as needed */
+    color: #fff; /* Text color on top of the image */
+    padding: 160px; /* Increase padding to make the section larger */
+    min-height: 40vh; /* Adjust the minimum height as needed */
+}
+
+
+.bgs_content {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.enroll-text {
+    color: #fffb00; /* Change this to the color you desire */
+}
+.login-container {
+
+    background: rgba(255, 255, 255, 0.078);
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    border-radius: 8px;s
+    border: 1px solid rgba(255, 255, 255, 0.406);
+    width: 300px;
+    text-align: center;
+}
+
+.logoz {
+    margin-bottom: 20px;
+}
+
+.login-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.login-form button {
+    margin-top: 5%;
+    width: 100%;
+    padding: 10px;
+    background-color: #0a28d8;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(psubg.png);
+    background-size: cover;
+    
+    
+    /* Set background attachment to fixed for a fixed background */
+
+    
+    /* Set background position to center */
+    background-position: center;
+    
+    /* Add other styles as needed */
+    color: #fff; /* Text color on top of the image */
+    padding: 160px; /* Increase padding to make the section larger */
+    min-height: 40vh; /* Adjust the minimum height as needed */
+}
+
